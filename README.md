@@ -1,2 +1,2 @@
 # NGC
-Building the function for convert temperature scale 
+Trying to implemented algebra and calculus concept
